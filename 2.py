@@ -1,5 +1,5 @@
 expirydate = datetime.date(2023, 9, 24)
-#expirydate = datetime.date(2023, 8, 30)
+#expirydate = datetime.date(2023, 9, 24)
 today=date.today()
 green="\033[3;32m"
 neon="\033[3;36m"
