@@ -310,7 +310,7 @@ else:
         elif(bhai==night):
             clear()
             print("----------Your play time-----------")
-            print("11th Feb 2024,  08:00 PM- 08:30 PM")
+            print("19th Nov 2022,  08:00 AM- 08:30 PM")
             print("12th Feb 2024, 08:00 PM- 08:30 PM")
             print("13th Feb 2024, 08:00 PM- 08:30 PM")
             print("Please play on the given time, and ")
