@@ -296,7 +296,7 @@ else:
             banner='figlet COOE|lolcat'
             system(banner)
             print("----------Your play time-----------")
-            print("06-14th Oct 2023, 02:00 PM- 02:30 PM")
+            print("06-19th Nov 2022, 02:00 AM- 02:30 PM")
             print("06-14th Oct 2023, 06:00 PM- 06:30 PM")
             print("06-14th Oct 2023, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
