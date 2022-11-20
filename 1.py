@@ -15,7 +15,7 @@ expirydate = datetime.date(2022, 10, 15)
 today=date.today()
 def hero():
 
-def chalo():
+def load():
     done = False
     #here is the animation
     def animate():
@@ -34,7 +34,7 @@ def chalo():
     time.sleep(20)
     done = True
 
-def chalo1():
+def load1():
     done = False
     #here is the animation
     def animate():
