@@ -144,8 +144,11 @@ def hero():
              numbers.append(newperiod)
              y=input("Do you want to play : Press 1 and 0 to exit \n")
              if(y==0):
-            
-            next specified time!!")
+             y=False
+            if (len(numbers)>12):
+                 clear()
+                 system('figlet Thank you bob !!')
+                 print("Play on next specified time!!")
                  print("-----------Current Time UP----------")
                  sys.exit(" \n \n \n Contact on Telegram @smsn_knt") 
             #print(numbers)   
