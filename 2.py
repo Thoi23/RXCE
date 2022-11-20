@@ -290,7 +290,7 @@ else:
             #rint("To all the weekly members next week, cost will be  ")
             #print(" 4000 INR , because in this week 2 days off " )
             #print("Thank You!! ")
-            sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
+            
         elif(bhai==nextday):
             clear()
             banner='figlet COOE|lolcat'
