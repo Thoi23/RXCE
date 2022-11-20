@@ -75,9 +75,9 @@ while(y):
     print("Enter ",newperiod," Parity Price :")
     current=input()
     current=int(current)
-    chalo()
+    load()
     print("\n---------Successfully hacked the server-----------")
-    chalo1()
+    load1()
     print("\n---------Successfully got the colour -------------")
     print('\n')
     def getSum(n):
