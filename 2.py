@@ -144,9 +144,7 @@ def hero():
              numbers.append(newperiod)
              y=input("Do you want to play : Press 1 and 0 to exit \n")
              if(y==0):
-                 y=False
-             
-            #print(numbers)
+                
         else:
             clear
             break
