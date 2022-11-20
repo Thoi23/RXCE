@@ -319,7 +319,7 @@ else:
             time.sleep(20)
             period=400
             hero()
-            sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
+            
         else:
             clear()
             banner='figlet COOE|lolcat'
