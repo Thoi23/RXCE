@@ -145,12 +145,7 @@ def hero():
              y=input("Do you want to play : Press 1 and 0 to exit \n")
              if(y==0):
                  y=False
-             if (len(numbers)>12):
-                 clear()
-                 system('figlet Thank you!!')
-                 print("Play on next specified time!!")
-                 print("-----------Current Time UP----------")
-                 sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
+             
             #print(numbers)
         else:
             clear
@@ -290,7 +285,7 @@ else:
             #rint("To all the weekly members next week, cost will be  ")
             #print(" 4000 INR , because in this week 2 days off " )
             #print("Thank You!! ")
-            
+            sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
         elif(bhai==nextday):
             clear()
             banner='figlet COOE|lolcat'
