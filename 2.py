@@ -163,9 +163,7 @@ def hero():
     clear()
     system(banner)
     system('figlet Thank you!!')
-    print("Play on next specified time!!")
-    print("-----------Current Time UP----------")
-    sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
+    print
         #print(numbers)
   
 
@@ -200,7 +198,7 @@ if(expirydate>today):
         #print(f"{red}"Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
-        #print("20th Nov 2022, 11:00 AM- 11:30 Pm")
+        #print("29th Nov 2022, 11:00 AM- 11:30 Pm")
         #print("31st Aug 2021, 02:00 PM- 02:30 PM")
         print("23rd Sept 2021, 04:00 PM- 04:30 PM")
         #print("31st Aug 2021, 08:00 PM- 08:30 PM")
@@ -241,14 +239,14 @@ else:
     elif(now>Final and now<Finalend):
             rava=410
     system(banner)
-    print(f"{neon}*--------*--------*-------*---------*---------*")
+    print(f"{neon}-----------------------------------------")
     print("Your hack has expired--- Please contact")
     print(" on telegram ----@smsn_knt for activating")
     print("     Plan Amount --    Total limit " )
     print(" 1.  2,000 INR  -------  1 Day (30 Games")
     print(" 2.  5,500 INR  -------  3 Days(90 Games")
     print(" 2.  10,500 INR -------  7 Days(210 Games")
-    print("*---------*----------*-------------*----------*")
+    print("------------------------------------------*")
     #print("If you need any discount contact me")
     print("Beware of fraudsters!!!")
     while(True):
@@ -258,8 +256,8 @@ else:
         print(f"{green}(UTR) Or Upi Reference Number") 
         print(f"{neon}To Activate The Hack")
         print(f"If It Does'nt Open Contact Me On Telegram {yellow}@smsn_knt")
-        print(f"{neon}*---------*----------*-------------*----------*")
-        print(f"{red}*---------*----------*-------------*----------*")
+        print(f"{neon}------------------------------------------*")
+        print(f"{red}------------------------------------------*")
         print("payhere--- UPI : ")
         #print(f"{yellow}UPI1 : sunny.9132@ybl")
         print(f"{yellow}UPI : sunnyk16@fbl")
@@ -271,10 +269,10 @@ else:
             print("You have bought hack for 1 day")
             #print("Hi! Mujjee please play night 12 AM")
             print(f"{purple}---------------Your play time----------------")
-            print("21th Oct 2022, 02:30 PM- 03:00 PM")
+            print("29th Nov 2022, 02:30 PM- 09:00 PM")
             print("21th Oct 2022, 05:00 PM- 05:30 PM")
             print("21th Oct 2022, 09:00 PM- 09:30 PM")
-            print("--------*ASK YOUR TIME FROM ME*--------")
+            print("--------ASK YOUR TIME FROM ME--------")
             print("--------This time will not work--------")
             print("Please play on the given time, and ")
             print(f"If you think it is an {red}error {yellow}contact {green}me ")
@@ -296,7 +294,7 @@ else:
             banner='figlet COOE|lolcat'
             system(banner)
             print("----------Your play time-----------")
-            print("06-19th Nov 2022, 02:00 AM- 02:30 PM")
+            print("06-29th Nov 2022, 02:00 AM- 09:30 PM")
             print("06-14th Oct 2023, 06:00 PM- 06:30 PM")
             print("06-14th Oct 2023, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
@@ -310,7 +308,7 @@ else:
         elif(bhai==night):
             clear()
             print("----------Your play time-----------")
-            print("19th Nov 2022,  08:00 AM- 08:30 PM")
+            print("29th Nov 2022,  08:00 AM- 08:30 PM")
             print("12th Feb 2024, 08:00 PM- 08:30 PM")
             print("13th Feb 2024, 08:00 PM- 08:30 PM")
             print("Please play on the given time, and ")
@@ -325,4 +323,3 @@ else:
             banner='figlet COOE|lolcat'
             system(banner)
             print("Incorrect Activation Code :")
- 
