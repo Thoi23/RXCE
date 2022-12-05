@@ -147,7 +147,7 @@ if(expirydate>today):
             period=340
             hero()
     elif(True):
-            period=409
+            period=342
 
             hero()
     else:
